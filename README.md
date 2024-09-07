@@ -25,7 +25,7 @@ The Vehicle Service System is a full-stack web application for managing vehicle 
 
     ```bash
     git clone https://github.com/Bhavik-Jain/veichal_service_system.git
-    cd vehicle-service-system
+    cd vehicle_s_system
     ```
 
 2. **Create and Activate a Virtual Environment:**
